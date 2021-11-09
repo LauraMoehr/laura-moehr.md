@@ -18,6 +18,9 @@ funtion techStuff(){
   
 ```
 
+_Tech stack will follow soon._
+
+
 [contact](laura.moehr@gmail.com)
 
 
