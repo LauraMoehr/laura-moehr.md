@@ -1,17 +1,24 @@
 ## laura-moehr.md
-# About Me - markdown exercise
+# About Me
 
-My name is Laura, 34, i'm a _musician_ and currently i'm studying _web development_.
+My name is **Laura**, i'am 34 years old and i'm a _musician_ and currently i'm studying _web development_.
 
-In my free time I love to go **hiking**, **watch the birds**, **read** a good book... (Overuse of the bold-feature going on here:) )
+In my free time I love to go **hiking**, **watching the birds**, **reading** a good **book**... (Overuse of the bold-feature going on here:) )
 
 
-
+![istockphoto-467103849-612x612](https://user-images.githubusercontent.com/86975686/140906773-d98b78ff-d958-4371-be14-b47ef4902fef.jpg)
 
 
 > “Great web design without functionality is like a sports car with no engine.” :car:
 – Paul Cookson 
 
+```
+funtion techStuff(){
+  console.log(techStack);
+  }
+  
+```
+
 [contact](laura.moehr@gmail.com)
 
-./
+
