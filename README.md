@@ -12,7 +12,7 @@ In my free time I love to go **hiking**, **watching the birds**, **reading** a g
 – Paul Cookson 
 
 ```
-funtion myStack(){
+function myStack(){
   console.log("Tech stack will follow soon.");
   }
   
