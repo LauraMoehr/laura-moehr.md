@@ -1,7 +1,7 @@
 ## laura-moehr.md
 # About Me
 
-My name is **Laura**, i'am 34 years old and i'm a _musician_ and currently i'm studying _web development_.
+My name is **Laura**, i'am 34 years old and currently i'm studying _web development_.
 
 In my free time I love to go **hiking**, **watching the birds**, **reading** a good **book**... (Overuse of the bold-feature going on here:) )
 
@@ -12,15 +12,9 @@ In my free time I love to go **hiking**, **watching the birds**, **reading** a g
 – Paul Cookson 
 
 ```
-funtion techStuff(){
-  console.log(techStack);
+funtion myStack(){
+  console.log("Tech stack will follow soon.");
   }
   
 ```
-
-_Tech stack will follow soon._
-
-
 [contact](laura.moehr@gmail.com)
-
-
